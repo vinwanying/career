@@ -1,0 +1,47 @@
+#signupind_photobox{
+	background-image: url(/img/banner_signup.jpg);
+	height: 495px;
+}
+
+.container-translucent-blue{
+  margin-top: 100px;
+	min-width: 350px;
+}
+
+#signup_ind_submit{
+	background-color: #ef8c45;
+	color: #f0f1f2;
+	border: none;
+	padding-top: 3%;
+	padding-bottom: 2%;
+	padding-left: 4%;
+	padding-right:4%;
+	border-radius: 5px;
+}
+#signup_ind_submit a:hover{
+  background-color: #ef8c45;
+  color:#f0f1f2;
+}
+
+.signup_ind_form{
+	color: #ef8c45;
+	font-family: raleway;
+	font-weight: 400;
+
+	text-align: left;
+	margin-left: 20%;
+	margin-top: 5%;
+	margin-bottom: 8%;
+}
+
+tr{
+	height: 35px;
+}
+
+td{
+	width: 200px;
+}
+
+.text_input{
+	width:290px;
+}

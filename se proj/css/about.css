@@ -1,0 +1,21 @@
+.container-translucent-blue{
+  margin-top:0px;
+}
+
+#about_text{
+  font-family: raleway;
+  font-size: 12pt;
+  padding-top:5%;
+  padding-left: 10%;
+  padding-right:10%;
+  padding-bottom: 5%;
+}
+
+#about_photobox{
+	background-image: url(/img/banner_about.jpg);
+	height: 495px;
+}
+
+.container-translucent-blue{
+  margin-top: 20%;
+}

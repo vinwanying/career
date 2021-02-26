@@ -1,0 +1,127 @@
+#browse_org_photobox{
+	background-image: url(/img/banner_soc.jpg);
+	height: 495px;
+  min-width: 610px;
+}
+
+.container-translucent-blue{
+  float:right;
+  font-size: 150%;
+}
+
+#org_complete_search{
+  min-width: 610px;
+	width:1170px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#org_search_icon{
+  padding-right: 5px;
+}
+
+#org_search{
+  background-color: #f0f1f2;
+  color:#ef8c45;
+  border: none;
+  border-radius: 5px;
+  width:450px;
+  height: 100%;
+  font-family: raleway;
+}
+
+#org_search_button{
+  background-color: #f0f1f2;
+  color:#ef8c45;
+  font-family: raleway;
+  border: none;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 2%;
+  padding-right:2%;
+  border-radius: 5px;
+}
+
+#org_search_button a:hover{
+  background-color: #ef8c45;
+  color:#f0f1f2;
+}
+
+/*search bar background*/
+.container-orange{
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#org_type_dropdown{
+  background-color:#ef8c45;
+  color:#f0f1f2;
+  border-color: #f0f1f2;
+  border-width: 2px;
+  border-radius:5px;
+  width:290px;
+  height:5%;
+  font-family: raleway;
+}
+
+#org_cat_dropdown{
+  background-color:#ef8c45;
+  color:#f0f1f2;
+  border-color: #f0f1f2;
+  border-width: 2px;
+  border-radius:5px;
+  width:290px;
+  height:5%;
+  font-family: raleway;
+}
+
+/*search result background*/
+.container{
+  text-align: center;
+}
+
+.text-container{
+  color:#f0f1f2;
+  font-family:raleway;
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+  min-width: 80%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-size: 8pt;
+}
+
+.org_name{
+  font-weight: 700;
+  font-size: 12pt;
+}
+
+.pages_button{
+  padding-top:5%;
+  padding-bottom:8%;
+}
+
+#prev_page_button{
+  background-color: #f0f1f2;
+  color:#ef8c45;
+  padding-top:1%;
+  padding-bottom:1%;
+  padding-left:2%;
+  padding-right:1%;
+  border:none;
+}
+
+#next_page_button{
+  background-color: #f0f1f2;
+  color:#ef8c45;
+  padding-top:1%;
+  padding-bottom:1%;
+  padding-left:2%;
+  padding-right:1%;
+  border:none;
+}
